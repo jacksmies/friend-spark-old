@@ -1,0 +1,32 @@
+{
+  "name": "friend-sparks",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/material": "^5.15.18",
+    "@styled-icons/boxicons-regular": "^10.47.0",
+    "@styled-icons/boxicons-solid": "^10.47.0",
+    "axios": "^1.3.4",
+    "mongodb": "^5.9.2",
+    "next": "13.2.4",
+    "next-auth": "^4.24.5",
+    "polished": "^4.3.1",
+    "react": "18.2.0",
+    "react-cookie": "^7.1.4",
+    "react-dom": "18.2.0",
+    "react-toastify": "^9.1.1",
+    "styled-components": "^6.1.11",
+    "styled-system": "^5.1.5"
+  },
+  "devDependencies": {
+    "eslint": "8.36.0",
+    "eslint-config-next": "13.2.4"
+  }
+}
